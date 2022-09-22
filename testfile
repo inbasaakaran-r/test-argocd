@@ -1,2 +1,2 @@
 Test
-{{ varone }} , {{ vartwo }}
+{{date}} , {{name}}
